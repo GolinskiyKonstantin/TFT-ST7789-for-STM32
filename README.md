@@ -10,7 +10,7 @@ PCB pin to pin TFT ST7789 for STM32
  ## ФОТО ГОТОВОГО ИЗДЕЛИЯ:
 ![](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32/blob/master/image/TFT_ST7789_for_STM32_1.png)
 ![](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32/blob/master/image/TFT_ST7789_for_STM32_2.png)
-![](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32/blob/master/image/TFT_ST7789_for_STM32_3.png)
+![](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32/blob/master/image/TFT_ST7789_for_STM32_3.jpg)
 
 ## Ссылка на проект:
 [СХЕМА И ПЕЧАТНАЯ ПЛАТА:](https://easyeda.com/golinskiy.konstantin/st7789-for-stm32-port)
